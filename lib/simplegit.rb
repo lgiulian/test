@@ -9,3 +9,4 @@ first commit for patch
 second commit for patch
 b1c1
 b2 c1
+master c1
