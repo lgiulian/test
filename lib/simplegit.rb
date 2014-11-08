@@ -8,3 +8,4 @@ loredana 1 commit for patch
 first commit for patch
 second commit for patch
 loredana test merge conflicts
+loredana: rebase test c1 on testRebase2 branch
