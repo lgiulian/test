@@ -7,4 +7,4 @@ loredana change 3 commit
 loredana 1 commit for patch
 first commit for patch
 second commit for patch
-loredana: rebase test c2 on master branch
+loredana: rebase test c3 on master branch
